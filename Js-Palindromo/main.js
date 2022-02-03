@@ -3,7 +3,7 @@ Chiedere all’utente di inserire una parola
 Creare una funzione per capire se la parola inserita 
 è palindroma */
 
-creo una funzione palindroma 
+//creo una funzione palindroma 
 
 function palindrome (word) { //nome funzione si puo mettere quello che si vuole, è una variabile che conterrà il parametro che gli passiamo quando evochiamo la funzione
 
